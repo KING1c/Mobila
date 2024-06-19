@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">pr7</string>
+    <string name="hello_str">Поздороваться</string>
+    <string name="button_count">Button</string>
+    <string name="buttonCount">ТАП!!!</string>
+</resources>
